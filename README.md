@@ -8,7 +8,7 @@ Previsão de término: Dezembro de 2028
 
 ## Objetivo: 🎯
 
-Desenvolvimento de Software 
+Engenharia de Software 
 
 ## Competências: 📚
 
