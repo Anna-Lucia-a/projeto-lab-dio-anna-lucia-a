@@ -10,7 +10,7 @@ Previsão de término: Dezembro de 2028
 
 Desenvolvimento de Software 
 
-## Competências:
+## Competências: 📚
 
 Hard skills
 
