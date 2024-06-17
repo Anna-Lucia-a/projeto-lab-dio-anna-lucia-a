@@ -8,13 +8,13 @@ Previsão de término: Dezembro de 2028
 
 ## Objetivo: 🎯
 
-Desenvolvimento de software - 
+Desenvolvimento de Software 
 
 ## Competências:
 
 Hard skills
 
-- Linguagens de programação: C, Python
+- Linguagens de programação: C++, Python, HTML, CSS, JavaScript
 - Inteligência Artificial (IA)
 - Excel intermediário
 - Inglês intermediário 
