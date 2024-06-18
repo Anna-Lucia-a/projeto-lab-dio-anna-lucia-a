@@ -14,7 +14,8 @@ Engenharia de Software
 
 Hard skills
 
-- Linguagens de programação: C++, Python, HTML, CSS, JavaScript
+- Linguagens de programação: C++, Python, JavaScript
+- Linguagens de marcação: HTML, CSS
 - Inteligência Artificial (IA)
 - Excel intermediário
 - Inglês intermediário 
